@@ -1,0 +1,16 @@
+{
+  "name": "micron-object-assign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "micron-runner --end 100000 --step 10000 -o docs"
+  },
+  "keywords": [],
+  "author": "ivanhuay@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "micron-runner": "0.0.8"
+  }
+}
