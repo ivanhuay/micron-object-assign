@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "eslint": "^5.16.0",
-    "micron-runner": "0.0.8"
+    "micron-runner": "0.0.12"
   }
 }
